@@ -1,0 +1,11 @@
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp2.0\InterfaceExercise.deps.json
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp2.0\InterfaceExercise.runtimeconfig.json
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp2.0\InterfaceExercise.runtimeconfig.dev.json
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp2.0\InterfaceExercise.dll
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp2.0\InterfaceExercise.pdb
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp2.0\InterfaceExercise.csprojResolveAssemblyReference.cache
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp2.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp2.0\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp2.0\InterfaceExercise.AssemblyInfo.cs
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp2.0\InterfaceExercise.dll
+C:\Users\Engineer\Desktop\Prep-eM\Intermediate_C#\Unit 6\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp2.0\InterfaceExercise.pdb
